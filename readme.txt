@@ -10,3 +10,5 @@ natural language inquiries, then respond with the LLM using the returned JSON.
 
 Makes use of 'custom tools' from the LangChain Python package:
 https://python.langchain.com/docs/introduction/
+
+call 'nvd_agent.py' to run the script
